@@ -5,6 +5,6 @@ La specifica della *Prova Finale (Progetto di Reti Logiche)* per l’Anno Accade
 ### Descrizione del Sistema
 Ad elevato livello di astrazione, il sistema:
 
-Riceve indicazioni circa una *locazione di memoria*, il cui contenuto deve essere indirizzato verso un *canale di uscita* fra i quattro disponibili.
-Le indicazioni circa il *canale da utilizzare* e *l’indirizzo di memoria* a cui accedere vengono forniti mediante un *ingresso seriale da un bit*.
-Le *uscite del sistema*, ovvero i succitati canali, forniscono tutti i bit della parola di memoria in *parallelo*.
+- Riceve indicazioni circa una *locazione di memoria*, il cui contenuto deve essere indirizzato verso un *canale di uscita* fra i quattro disponibili.
+- Le indicazioni circa il *canale da utilizzare* e *l’indirizzo di memoria* a cui accedere vengono forniti mediante un *ingresso seriale da un bit*.
+- Le *uscite del sistema*, ovvero i succitati canali, forniscono tutti i bit della parola di memoria in *parallelo*.
